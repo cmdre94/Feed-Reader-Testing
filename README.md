@@ -1,11 +1,8 @@
 HOW TO SUCCESSFULLY RUN THE APPLICATION
-1. Double-click the C:\Users\ClifandMo\Documents\GitHub\frontend-nanodegree-feedreader-master folder.
-
-2. Right-click the index.html file.
-
-3. Select Open With.
-
-4. Select a browser such as Google Chrome
+1. Download the cmdre94/Feed-Reader-Testing repository.
+2. Right-click the index.html file
+3. Select Open with
+4. Select from the list of web browsers (Google Chrome for example).
 
 
 INSTRUCTIONS FOR STUDENTS
